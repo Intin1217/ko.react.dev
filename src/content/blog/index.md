@@ -10,6 +10,12 @@ title: React 블로그
 
 <div className="sm:-mx-5 flex flex-col gap-5 mt-12">
 
+<BlogCard title="React Compiler v1.0" date="2025년 10월 7일" url="/blog/2025/10/07/react-compiler-1">
+
+오늘 컴파일러의 첫 릴리즈 버전을 출시하며, 도입을 더 쉽게 할 린팅 및 툴링 개선 사항도 함께 공개합니다.
+
+</BlogCard>
+
 <BlogCard title="React Labs: View Transitions, Activity 그리고 그 외" date="2025년 4월 23일" url="/blog/2025/04/23/react-labs-view-transitions-activity-and-more">
 
 React Labs 게시글에서는 현재 연구 개발 중인 프로젝트에 대한 글을 작성합니다. 이번 포스팅에서는 지금 바로 사용해 볼 수 있는 두 가지 새로운 실험적 기능을 공유하고, 현재 작업 중인 다른 영역에 대해서도 공유하고자 합니다.
